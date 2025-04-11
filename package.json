@@ -30,7 +30,7 @@
     "coveralls": "jest --coverage --coverageReporters=text-lcov | coveralls"
   },
   "dependencies": {
-    "clickhouse": "^2.6.0",
+    "clickhouse": "github:ovox/clickhouse#v1.0.0",
     "colors": "^1.4.0"
   },
   "devDependencies": {
